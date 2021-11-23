@@ -1,6 +1,7 @@
 {
     "anytime" : [
         "Hello there!",
+	"Beast Mode!",
 	"Not today Satan",
 	"I believe in you",
 	"I am proud of you",
@@ -28,15 +29,14 @@
     "afternoon" : [
         "Hitting your fucking stride!",
         "You are making a fucking difference!",
-        "Hang on in there, you're half-way through the day!",
-        "You're more fun than bubble wrap!"
+        "Hang on in there, you're half-way through the day!"
     ],
     "evening" : [
         "You made someone fucking smile today, I know it",
         "You are making a fucking difference",
         "The day was better for your efforts",
         "See you tomorrow!",
-        "Sleep tight"
+        "Have a good night"
     ],
     "snow": [
         "Snowball fight!",
